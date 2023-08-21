@@ -1,3 +1,12 @@
+### Projeto Jogo de Memória
+ReactJS + Typescript + styled-components
+
+### Instalar projeto
+`npm install`
+
+### Rodar projeto
+`npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
