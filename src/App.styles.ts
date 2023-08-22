@@ -52,6 +52,6 @@ export const GridArea = styled.div`
 export const Grid = styled.div`
   width: 430px;
   display: grid;
-  grid-template-columns: repeat()(4, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 `;
