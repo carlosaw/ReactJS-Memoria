@@ -7,6 +7,9 @@ ReactJS + Typescript + styled-components
 ### Rodar projeto
 `npm start`
 
+### Land Page
+[vercel](https://react-js-memoria.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
